@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen, at White-Hall, February the 27th, 1690/1 by John Tillotson ...</title>
+            <author>Tillotson, John, 1630-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62606</idno>
+            <idno type="STC">Wing T1243</idno>
+            <idno type="STC">ESTC R16849</idno>
+            <idno type="EEBO-CITATION">13153670</idno>
+            <idno type="OCLC">ocm 13153670</idno>
+            <idno type="VID">98146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 752:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen, at White-Hall, February the 27th, 1690/1 by John Tillotson ...</title>
+                  <author>Tillotson, John, 1630-1694.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer ..., and William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XXIV, 16 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98146:1"/>
+            <pb facs="tcp:98146:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the QUEEN, AT White-Hall, <hi>February</hi> the 27<hi rend="sup">th</hi> 1690/1.</p>
+            <p>By <hi>JOHN TILLOTSON,</hi> D. D. Dean of St. <hi>PA<g ref="char:V">Ʋ</g>L's,</hi> And Clerk of the Cloſet to His Majeſty.</p>
+            <p>
+               <hi>Publiſhed by Her Maieſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Brabazon Aylmer,</hi> at the <hi>Three Pidgeons</hi> over-againſt the <hi>Royal Exchange;</hi> and <hi>William Rogers,</hi> at the <hi>Sun</hi> over-againſt St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi> MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:98146:2"/>
+            <pb n="1" facs="tcp:98146:2"/>
+            <head>A SERMON Preached before the QUEEN.</head>
+            <epigraph>
+               <bibl>
+                  <hi>ACTS xxiv. 16.</hi>
+               </bibl>
+               <q>And herein do I exerciſe my ſelf, to have always a conſcience void of offence to<g ref="char:EOLhyphen"/>wards God, and towards men.</q>
+            </epigraph>
+            <p>THeſe words are part of the Defenſe which St. <hi>Paul</hi> made for himſelf, before <hi>Faelix</hi> the <hi>Roman</hi> Gover<g ref="char:EOLhyphen"/>nour.</p>
+            <p>In which he firſt of all vindicates himſelf from the charge of Sedition, <hi>ver.</hi> 12, <hi>They neither found me in the Temple, diſputing with any man; neither raiſing up the People, neither in
+<pb n="2" facs="tcp:98146:3"/>the Synagogue, nor in the City;</hi> that is, they could not charge him with making any diſtur<g ref="char:EOLhyphen"/>bance either in Church or State.</p>
+            <p>After this, he makes a free and open profeſ<g ref="char:EOLhyphen"/>ſion of his Religion, <hi>ver.</hi> 14. <hi>But this I confeſs, that after the way which they call Hereſie, ſo worſhip I the God of my Fathers, believing all things which are written in the Law and the Prophets:</hi> Here he declares the <hi>Scriptures</hi> to be the <hi>Rule</hi> of his <hi>Faith,</hi> in oppoſition to the <hi>Oral Tradition</hi> of the <hi>Phariſees.</hi>
+            </p>
+            <p>More particularly he aſſerts the Doctrine of the <hi>Reſurrection,</hi> which was a principal <hi>Article</hi> both of the <hi>Jewiſh</hi> and the <hi>Chriſtian</hi> Religion; <hi>ver.</hi> 15, <hi>And I have hope alſo towards God, that there ſhall be a Reſurrection, both of the juſt and the unjuſt.</hi>
+            </p>
+            <p>And having made this declaration of his <hi>Faith,</hi> he gives an account of his <hi>Life,</hi> in the words of the <hi>Text, ver.</hi> 16, <hi>And herein do I exerciſe my ſelf, to have always a conſcience void of offence, towards God, and towards men.</hi>
+            </p>
+            <p>Herein, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, <hi>in this work,</hi> do I employ myſelf; or as others render it, <hi>in the mean time,</hi> whilſt I am in this World; or as others, I think moſt probably, <hi>for this cauſe
+<pb n="3" facs="tcp:98146:3"/>and reaſon,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for this reaſon, becauſe I believe a Reſurrection, therefore have I a conſcientious care of my life, and all the actions of it.</p>
+            <p>The Diſcourſe I intend to make upon theſe words, ſhall be comprized in theſe following Particulars.</p>
+            <list>
+               <item>I. Here is the extent of a good man's pious practiſe, <hi>to have a conſcience void of offence, to<g ref="char:EOLhyphen"/>wards God, and towards men.</hi>
+               </item>
+               <item>II. Here is his conſtancy and perſeverance in this courſe; to have <hi>allways</hi> a conſcience void of offence.</item>
+               <item>III. Here is his earneſt care and endeavour to this purpoſe, <hi>I exerciſe my ſelf.</hi>
+               </item>
+               <item>IV. Here is the Principle and immediate Guide of his actions, which St. <hi>Paul</hi> here tells us was his <hi>Conſcience.</hi>
+               </item>
+               <item>V. I ſhall lay down ſome Rules and dire<g ref="char:EOLhyphen"/>ctions for the keeping of a good Conſcience.</item>
+               <item>VI. Here is the great motive and encou<g ref="char:EOLhyphen"/>ragement to this, which St. <hi>Paul</hi> tells us was the belief of a Reſurrection, and of a future State of Rewards and Puniſhments conſequent upon it; <hi>for this cauſe;</hi> becauſe <hi>I hope for a Reſurrection both of the juſt and unjuſt, I exer<g ref="char:EOLhyphen"/>ciſe my ſelf to have always a conſcience void of
+<pb n="4" facs="tcp:98146:4"/>offence towards God and towards men.</hi> I ſhall ſpeak but briefly to the <hi>three</hi> firſt of theſe Par<g ref="char:EOLhyphen"/>ticulars, that I may be larger in the reſt.</item>
+            </list>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> I. <hi>Here is the extent of a good man's pious practice.</hi> It hath regard to the whole compaſs of his Duty, as it reſpects <hi>God</hi> and <hi>Man. I exerciſe my ſelf,</hi> ſays St. <hi>Paul, to have a conſci<g ref="char:EOLhyphen"/>ence void of offence towards God and towards men.</hi> And this diſtribution of our Duty, un<g ref="char:EOLhyphen"/>der theſe two general heads, is very frequent in Scripture. The <hi>Decalogue</hi> refers our Duty to theſe two heads: And accordingly our <hi>Sa<g ref="char:EOLhyphen"/>viour</hi> comprehends the whole Duty of Man in thoſe two great Commandments, the <hi>love</hi> of <hi>God</hi> and of our <hi>Neighbour, Matth.</hi> 22.38. <hi>
+                  <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>on theſe two Commandments hang all the Law and the Prophets,</hi> that is, all the <hi>Moral</hi> Precepts, which are diſpers'd up and down in the Law and the Prophets, may be referr'd to theſe two general Heads.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> II. <hi>Here is his conſtancy and perſeverance in this courſe.</hi> St. <hi>Paul</hi> ſays, that he exerciſed himſelf to have <hi>always</hi> a conſcience void of offence; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>continually,</hi> at all times, in the whole courſe of his life. We muſt not only make conſcience of our ways by fits and ſtarts, but in the general courſe and tenour of
+<pb n="5" facs="tcp:98146:4"/>our lives and actions, without any baulks and in<g ref="char:EOLhyphen"/>termiſſions.</p>
+            <p>There are ſome that will refrain from groſſer Sins, and be very ſtrict at ſome Seaſons; as du<g ref="char:EOLhyphen"/>ring the Time of a Solemn Repentance, and for ſome days before they receive the Sacrament, and perhaps for a little while after it: And when theſe devout Seaſons are over, they let them<g ref="char:EOLhyphen"/>ſelves looſe again to their former lewd and viti<g ref="char:EOLhyphen"/>ous courſe: But Religion ſhould be a conſtant frame and temper of mind, diſcovering it ſelf in the habitual courſe of our lives and actions.</p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> III. <hi>Here is likewiſe a very earnest care and en<g ref="char:EOLhyphen"/>deavour to this purpoſe.</hi> Herein do I <hi>exerciſe</hi> my ſelf, ſays St. <hi>Paul.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is here render'd <hi>exerciſe,</hi> is a word of a very intenſe ſignification, and does denote that St. <hi>Paul</hi> ap<g ref="char:EOLhyphen"/>plied himſelf to this buſineſs with all his care and might, and that he made it his earneſt ſtudy and endeavour: And ſo muſt we; we muſt take great care to underſtand our duty, and to be rightly informed concerning <hi>good</hi> and <hi>evil,</hi> that we may not miſtake the nature of things, and <hi>call good evil, and evil good:</hi> We muſt apply our minds in good earneſt to be thoroughly in<g ref="char:EOLhyphen"/>ſtructed in all the parts of our Duty, that ſo we may not be at a loſs what to do when we are
+<pb n="6" facs="tcp:98146:5"/>call'd to the practiſe of it: And when we know our Duty, we muſt be true and honeſt to our ſelves, and very careful and conſcientious in the diſcharge and performance of it. I proceed in the</p>
+            <p n="4">
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> IV<hi rend="sup">th</hi> place to conſider <hi>the Principle and imme<g ref="char:EOLhyphen"/>diate Guide of our actions,</hi> which St. <hi>Paul</hi> here tells us was his <hi>Conſcience; I exerciſe my ſelf to have always a Conſcience void of offence:</hi> By which he does not only mean a reſolution to follow the dictate and direction of his Conſcience, but like<g ref="char:EOLhyphen"/>wiſe a due care to inform his Conſcience aright, that he might not in any thing tranſgreſs the Law of God, and his Duty.</p>
+            <p>Conſcience is the great Principle of moral acti<g ref="char:EOLhyphen"/>ons, and our Guide in matter of Sin and Duty. It is not the Law and Rule of our actions, <hi>that</hi> the Law of God only is; but it is our immediate Guide and directour, telling us what is the Law of God and our Duty.</p>
+            <p>But becauſe <hi>Conſcience</hi> is a word of a very large and various ſignification, I ſhall endeavour very briefly to give you the true notion of it. Now in common ſpeech concerning <hi>Conſcience,</hi> every man is repreſented as having a kind of <hi>Court</hi> and <hi>Tribunal</hi> in his own breſt, where he tries himſelf and all his actions: And <hi>Conſcience,</hi> under one
+<pb n="7" facs="tcp:98146:5"/>notion or other, ſuſtains all parts in this Tryal: The <hi>Court</hi> is call'd the <hi>Court</hi> of a man's <hi>Conſcience,</hi> and the <hi>Barr</hi> at which the Sinner ſtands implea<g ref="char:EOLhyphen"/>ded, is call'd the <hi>Barr</hi> of <hi>Conſcience: Conſcience</hi> alſo is the <hi>Accuſer;</hi> and it is the <hi>Record</hi> and <hi>Regi<g ref="char:EOLhyphen"/>ſter</hi> of our Crimes, in which the memory of them is preſerv'd: And it is the <hi>Witneſs</hi> which gives teſtimony for, or againſt us; hence are thoſe expreſſions of <hi>the teſtimony of our Conſciences,</hi> and that <hi>a man's own Conſcience is to him inſtead of a thouſand Witneſſes:</hi> And it is likewiſe the <hi>Judge</hi> which declares the Law, and what we ought, or ought not to have done, in ſuch or ſuch a Caſe, and accordingly paſſeth <hi>Sentence</hi> upon us by <hi>acquitting</hi> or <hi>condemning</hi> us. Thus, accor<g ref="char:EOLhyphen"/>ding to common uſe of Speech, <hi>Conſcience</hi> ſuſtains all imaginable parts in this <hi>Spiritual Court:</hi> It is the <hi>Court,</hi> and the <hi>Bench,</hi> and the <hi>Barr;</hi> the <hi>Accuſer,</hi> and <hi>Witneſs,</hi> and <hi>Regiſter,</hi> and all.</p>
+            <p>But I ſhall onely at preſent conſider <hi>Conſcience</hi> in the moſt common and famous notion of it, as it is the Principle or Faculty whereby we judge of moral Good and Evil, and do accordingly di<g ref="char:EOLhyphen"/>rect and govern our actions: So that in ſhort, <hi>Conſcience</hi> is nothing elſe but <hi>the Judgment of a man's own mind concerning the morality of his acti<g ref="char:EOLhyphen"/>ons;</hi> that is, the <hi>Good,</hi> or <hi>Evil,</hi> or <hi>Indifferency</hi>
+               <pb n="8" facs="tcp:98146:6"/>of them; telling us what things are commanded by God, and conſequently are our <hi>Duty;</hi> what things are forbidden by Him, and conſequently are <hi>ſinful;</hi> what things are neither commanded nor forbidden, and conſequently are <hi>indifferent.</hi> I proceed in the</p>
+            <p n="5">
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> V<hi rend="sup">th</hi> place, <hi>to give ſome Rules and directions for the keeping of a Conſcience void of offence.</hi> And they ſhall be theſe following:</p>
+            <p>
+               <hi>First,</hi> Never in any caſe to act contrary to the perſuaſion and conviction of our Conſcience. For <hi>that</hi> certainly is a great Sin, and that which properly offends the Conſcience and renders us <hi>guilty; guilt</hi> being nothing elſe but trouble ari<g ref="char:EOLhyphen"/>ſing in our minds from a conſciouſneſs of having done contrary to what we are verily perſwaded was our duty: And though perhaps this perſua<g ref="char:EOLhyphen"/>ſion is not always well grounded, yet the guilt is the ſame ſo long as this perſuaſion continues; becauſe every man's Conſcience is a kind of God to him, and accuſeth or abſolves him according to the preſent perſuaſion of it. And therefore we ought to take great care not to offend againſt the light and conviction of our own mind.</p>
+            <p>
+               <hi>Secondly,</hi> We ſhould be very careful to in<g ref="char:EOLhyphen"/>form our Conſciences aright, that we may not miſtake concerning our duty; or if we do, that
+<pb n="9" facs="tcp:98146:6"/>our errour and miſtake may not be groſly wilful and faulty.</p>
+            <p>And this Rule is the more neceſſary to be con<g ref="char:EOLhyphen"/>ſider'd and regarded by us, becauſe generally men are apt to think it a ſufficient excuſe for a<g ref="char:EOLhyphen"/>ny thing, that they did it according to their Conſcience. But this will appear to be a dan<g ref="char:EOLhyphen"/>gerous miſtake, and of very pernicious conſe<g ref="char:EOLhyphen"/>quence to the Souls of men, if we conſider theſe two things.</p>
+            <list>
+               <item>1st, That men may be guilty of the moſt heinous Sins in following an erroneous Conſci<g ref="char:EOLhyphen"/>ence.</item>
+               <item>
+                  <hi>2ly,</hi> And theſe Sins may prove damnable with<g ref="char:EOLhyphen"/>out a particular repentance for them.</item>
+            </list>
+            <p n="1">1st, <hi>That men may be guilty of the most heinous Sins in following an erroneous Conſcience.</hi> Men may neglect and abuſe themſelves ſo far, as to do ſome of the worſt and wickedeſt things in the world with a perſuaſion that they do well. Our <hi>Saviour</hi> tells his Diſciples that <hi>the time ſhould come</hi> when the <hi>Jews</hi> ſhould <hi>put them to death,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 16.2.</note> 
+               <hi>thinking they did God good ſervice:</hi> Nay the <hi>Jews</hi> murdered the Son of God himſelf through igno<g ref="char:EOLhyphen"/>rance and a falſe perſwaſion of mind: <hi>Father forgive them,</hi> ſays our <hi>Bleſſed Lord,</hi> when he was breathing out his Soul upon the Croſs,<note place="margin">
+                  <hi>Luk.</hi> 23.34.</note> 
+               <hi>for they
+<pb n="10" facs="tcp:98146:7"/>know not what they do.</hi> And St. <hi>Peter,</hi> after he had charged the <hi>Jews</hi> with <hi>killing the Prince of Life,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 3.17.</note> he preſently adds, <hi>I wote that through igno<g ref="char:EOLhyphen"/>rance ye did it, as did alſo your Rulers.</hi> And St. <hi>Paul,</hi> in mitigation of that great Crime, ſays, <hi>Had they known, they would not have crucified the Lord of life and glory:</hi> And concerning himſelf he tells us,<note place="margin">
+                  <hi>Acts</hi> 26.9.</note> 
+               <hi>That he verily thought with himſelf, that he ought to do many things againſt the Name of</hi> Jeſus <hi>of</hi> Nazareth: And yet notwithſtanding that he acted herein according to the perſuaſion of his Conſcience, he tells us that he had been <hi>a blaſphemer,</hi> and <hi>a perſecutour,</hi> and <hi>injurious,</hi> and <hi>a murderer,</hi> and in a word, <hi>the greatest of Sin<g ref="char:EOLhyphen"/>ners.</hi> So that Men may be guilty of the great<g ref="char:EOLhyphen"/>eſt Sins in following an erroneous Conſcience. And</p>
+            <p n="2">2ly, <hi>Theſe Sins may prove damnable, without a particular repentance for them.</hi> Where the igno<g ref="char:EOLhyphen"/>rance and miſtake is not groſly wilful, there God will accept of a general repentance; but where it is groſly wilful, great Sins committed upon it are not pardon'd without a particular Repen<g ref="char:EOLhyphen"/>tance for them: And an errour which proceeds from want of ordinary human care and due go<g ref="char:EOLhyphen"/>vernment of a man's ſelf, is in a great degree wilful: As when it proceeds from an unreaſona<g ref="char:EOLhyphen"/>ble
+<pb n="11" facs="tcp:98146:7"/>and obſtinate prejudice, from great pride and ſelf-conceit, and contempt of counſel and inſtruction; or from a viſible byaſs of ſelf-intereſt, or when it is accompanied with a furious paſſion and zeal, prompting men to cruel and horrible things, contrary to the light of nature and the common ſenſe of humanity: Anerrour proceed<g ref="char:EOLhyphen"/>ing from ſuch cauſes, and producing ſuch effects, is wilful in ſo high a degree, that whatever evil is done in vertue of it is almoſt equally faulty with a direct and wilful violation of the Law of God.</p>
+            <p>The ignorance and miſtake doth indeed make the perſon ſo miſtaken more capable of forgive<g ref="char:EOLhyphen"/>neſs, which is the ground of our <hi>Saviour's</hi> Pray<g ref="char:EOLhyphen"/>er for his Murtherers, <hi>Father forgive them, for they know what they do:</hi> St. <hi>Paul</hi> likewiſe tells us, that he found mercy upon this account, <hi>Ne<g ref="char:EOLhyphen"/>vertheleſs,</hi> ſays he, <hi>I obtained mercy,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 1.13.</note> 
+               <hi>becauſe I did it ignorantly, and in unbelief,</hi> that is, through a falſe perſuaſion of mind, not believing it to be a Sin: And yet he did not obtain this mer<g ref="char:EOLhyphen"/>cy, without a particular conviction of his fault and repentance for it. And St. <hi>Peter</hi> after he had convinced, the <hi>Jews</hi> of their great Sin in cru<g ref="char:EOLhyphen"/>cifying <hi>Christ,</hi> though they did it ignorantly, yet he exhorts them to a particular and deep re<g ref="char:EOLhyphen"/>pentance
+<pb n="12" facs="tcp:98146:8"/>for it, as neceſſary to the pardon and forgiveneſs of it: And therefore after he had ſaid, <hi>I wote that through ignorance ye did it, as did alſo your Rulers,</hi>
+               <note place="margin">
+                  <hi>Act</hi> 3.19.</note> he immediately adds, <hi>Re<g ref="char:EOLhyphen"/>pent ye therefore, and be converted, that your ſins may be blotted out.</hi>
+            </p>
+            <p>So that it highly concerns men to conſider what opinions they embrace in order to practiſe, and not to ſuffer themſelves to be hurried away by an unreaſonable prejudice and a heady paſſi<g ref="char:EOLhyphen"/>on, without a due and calm examination of things, nor to be overborn by pride, or humour, or partiality, or intereſt, or by a furious and extravagant zeal: Becauſe proportionally to the voluntarineſs of our Errour will be the guilt of our practice purſuant to that Errour. Indeed where our Errour is involuntary, and morally invincible, God will conſider it, and make al<g ref="char:EOLhyphen"/>lowance for it; but where it is voluntary, and occaſioned by our own groſs fault and neglect, we are bound to conſider, and to rectifie our miſtake: For whatever we do contrary to the Law of God and our duty, in vertue of that falſe perſuaſion, we do it at our utmoſt peril, and muſt be anſwerable to God for it, notwith<g ref="char:EOLhyphen"/>ſtanding we did it according to the dictate of our Conſcience.</p>
+            <p>
+               <pb n="13" facs="tcp:98146:8"/>A <hi>Third</hi> Rule is this, That in all doubts of Conſcience we endeavour to be equal and impar<g ref="char:EOLhyphen"/>tial, and do not lay all the weight of our doubts on one ſide, when there is perhaps as much or greater reaſon of doubting on the other: And conſequently, that we be as tractable and eaſie to receive ſatisfaction of our doubts in one kind as in another, and be equally contented to have them over-ruled in caſes that are equal: I mean, where our paſſions and intereſts are not con<g ref="char:EOLhyphen"/>cern'd, as well as where they are. And if we do not do this, it is a ſign that we are partial in our pretences of Conſcience, and that we do not aim meerly at the peace and ſatisfaction of our own minds, but have ſome other intereſt and deſign.</p>
+            <p>For it is a very ſuſpicious thing, when mens doubts and ſcruples bear all on one ſide, eſpecially if it be on that ſide which is againſt charity, and peace, and obedience to Government, whether Ec<g ref="char:EOLhyphen"/>cleſiaſtical or Civil: In this caſe I think that a meer doubt, and much more a ſcruple, may, nay ought in reaſon to be over-ruled by the command of Autho<g ref="char:EOLhyphen"/>rity, by the opinion and judgment of wiſe and good men, and in conſideration of the publique peace, and of the unity and edification of the Church.</p>
+            <p>Not that a man is in any caſe to go againſt
+<pb n="14" facs="tcp:98146:9"/>the clear perſuaſion and conviction of his own mind, but when there is only a meer doubt con<g ref="char:EOLhyphen"/>cerning the lawfulneſs or unlawfulneſs of a thing, it ſeems to me in that caſe very reaſonable that a man ſhould ſuffer a mere doubt or ſcruple to be over-rul'd by any of thoſe weighty conſide<g ref="char:EOLhyphen"/>rations which I mentioned before.</p>
+            <p>The <hi>Fourth</hi> Rule is, That all pretences of Conſcience are vehemently to be ſuſpecled, which are accompanied with turbulent paſſion and a furious zeal. It is an hundred to one but ſuch a man's Conſcience is in the wrong. It is an excellent ſaying of St. <hi>James,</hi>
+               <note place="margin">
+                  <hi>Jam.</hi> 1.20.</note> 
+               <hi>The wrath of man worketh not the righteouſneſs of God,</hi> that is, the fierce paſſions of men are no proper inſtruments to promote Religion, and to accompliſh any thing that is good. And therefore if any man be tranſported with a wild zeal, and pretend conſcience for his fury, it is great odds but he is in an errour: None are ſo likely to judge amiſs, as they whoſe minds are clouded and blinded by their paſſions,</p>
+            <q>
+               <l>Nubila mens eſt,<note place="margin">Boeth.</note>
+               </l>
+               <l>Haec ubi regnant.</l>
+            </q>
+            <p>And if men would carefully obſerve them<g ref="char:EOLhyphen"/>ſelves, they might almoſt certainly know when they act upon Reaſon and a true principle of
+<pb n="15" facs="tcp:98146:9"/>Conſcience. A good Conſcience is eaſie to it ſelf, and pleaſed with its own doings; but when a man's paſſion and diſcontent are a weight upon his judgment, and do, as it were, bear down his Conſcience to a compliance, no wonder if this puts a man's mind into a very unnatural and uneaſie ſtate.</p>
+            <p>There can hardly be a broader ſign that a man is in the wrong, than to <hi>rage and be confident:</hi> Becauſe this plainly ſhews that the man's Conſci<g ref="char:EOLhyphen"/>ence is not ſetled upon clear reaſon, but that he hath brought over his Conſcience to his intereſt, or to his humour and diſcontent.</p>
+            <p>And though ſuch a man may be ſo far blinded by his paſſion as not to <hi>ſee</hi> what is right, yet me<g ref="char:EOLhyphen"/>thinks he ſhould <hi>feel</hi> himſelf to be in the wrong by his being ſo very hot and impatient.</p>
+            <p>Art thou ſure thou art in the right? thou art a happy man, and haſt reaſon to be pleaſed: What cauſe then, what need is there of being angry? Hath a man Reaſon on his ſide? What would he have more? Why then does he fly out into Paſſion? which as it gives no ſtrength to a bad Argument, ſo I could never yet ſee that it was any grace and advantage to a good one.</p>
+            <p>Of the great evil, and the perpetual miſtake of this furious kind of Zeal, the <hi>Jews</hi> are a lively
+<pb n="16" facs="tcp:98146:10"/>and a lamentable Example, in their carriage to<g ref="char:EOLhyphen"/>wards our Bleſſed <hi>Saviour</hi> and his Apoſtles: And more particularly St. <hi>Paul,</hi> when he perſecuted the <hi>Chriſtians</hi> from a falſe and erroneous perſuaſion of his Conſcience. Hear how S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> deſcribes him<g ref="char:EOLhyphen"/>ſelf and his own doings whilſt he was acted by an erroneous Conſcience:<note place="margin">
+                  <hi>Acts</hi> 22.4.</note> 
+               <hi>I perſecuted,</hi> ſays he, <hi>this way unto the death, binding and delivering into priſon both men and women:</hi> And in another <hi>Chapter, I verily thought with my ſelf,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 26.9.</note> 
+               <hi>that I ought to do many things againſt the Name of</hi> Jeſus <hi>of</hi> Nazareth: Here was his erroneous Conſcience: Let us next ſee what were the unhappy concomitants and effects of it; <hi>ver.</hi> 10, 11: <hi>Which things,</hi> ſays he, <hi>I alſo did in</hi> Jeruſalem, <hi>and many of the Saints I ſhut up in priſon, and when they were put to death I gave my voice againſt them, and puniſh'd them oft in every Synagogue, and compell'd them to blaſpheme; and be<g ref="char:EOLhyphen"/>ing exceedingly mad againſt them, I perſecuted them even to ſtrange Cities.</hi> When Conſcience tran<g ref="char:EOLhyphen"/>ſports men with ſuch a furious zeal and paſſion, it is hardly ever in the right; or if it ſhould hap<g ref="char:EOLhyphen"/>pen to be ſo, they who are thus tranſported, by their ungracious way of maintaining the truth, and their ill management of a good cauſe, have found out a cunning way to be in the wrong, even when they are in the right.</p>
+            <p>
+               <pb n="17" facs="tcp:98146:10"/>
+               <hi>Fifthly,</hi> all pretences of Conſcience are like<g ref="char:EOLhyphen"/>wiſe to be ſuſpected, which are not accompa<g ref="char:EOLhyphen"/>nyed with modeſty and humility, and a teach<g ref="char:EOLhyphen"/>able temper and diſpoſition, willing to learn and to be better inform'd. A proud and conceited temper of mind is very likely to run into mi<g ref="char:EOLhyphen"/>ſtakes; becauſe pride and fullneſs of a mans ſelf does keep out knowledge, and obſtructs all the paſſages by which wiſdom and inſtru<g ref="char:EOLhyphen"/>ction ſhould enter into men: Beſides that it pro<g ref="char:EOLhyphen"/>vokes God to abandon men to their own follies and miſtakes; for <hi>God reſiſteth the proud,</hi> but <hi>the meek will he guide in judgment,</hi> and <hi>will give more grace</hi> and wiſdom <hi>to the humble.</hi> When men are once come to this, to think themſelves wiſer than their Teachers, and to deſpiſe and caſt off their Guides, no wonder if <hi>then</hi> they go aſtray.</p>
+            <p>
+               <hi>Laſtly,</hi> Let us be ſure to mind that which is our plain and unqueſtionable duty; the great things of Religion, wherein the life and ſubſtance of it doth conſiſt; and <hi>the things</hi> likewiſe <hi>which make for peace, and whereby we may edify one ano<g ref="char:EOLhyphen"/>ther:</hi> And let us not ſuffer our diſputes about leſſer matters to prejudice and hinder our main duty: But let it be our great care not to fail in thoſe greater things which are comprehended
+<pb n="18" facs="tcp:98146:11"/>under the <hi>two great Commandments of the Law,</hi> the <hi>Love</hi> of <hi>God</hi> and of our <hi>Neighbour:</hi> Let us be ſtrict and conſtant in our piety and devotion towards <hi>God;</hi> chaſt and temperate in reference to <hi>our ſelves;</hi> juſt and honeſt, kind and chari<g ref="char:EOLhyphen"/>table, humble and meek, patient and peaceable towards <hi>all men;</hi> ſubmiſſive and obedient to our <hi>Superiours, Natural, Civil,</hi> and <hi>Spiritual.</hi> A due regard to theſe great Vertues of the <hi>Chriſtian</hi> life is the way to <hi>keep a Conſcience void of offence to<g ref="char:EOLhyphen"/>wards God, and towards men:</hi> And ſurely the beſt means to have our doubts cleared about matters of leſſer moment in Religion, is heartily to ſet about the practice of the great and unque<g ref="char:EOLhyphen"/>ſtionable Duties of it: So our <hi>B. Saviour</hi> hath aſſur'd us,<note place="margin">
+                  <hi>Job.</hi> 7.17.</note> that <hi>if any man will do the will of God, he ſhall know of</hi> his <hi>Doctrine whether it be of God.</hi> I come now in the</p>
+            <p n="6">VI<hi rend="sup">th</hi> and <hi>Laſt</hi> place, to <hi>conſider the great Mo<g ref="char:EOLhyphen"/>tive and encouragement to this conſcientious care of our Lives and actions;</hi> which <hi>St. Paul</hi> here tells us was his belief of a <hi>Reſurrection,</hi> and of the Rewards and Puniſhments conſequent upon it; <hi>I have hope,</hi> ſays he, <hi>towards God, that there ſhall be a Reſurrection both of the juſt and unjuſt: For this cauſe</hi> therefore <hi>I exerciſe my ſelf to have always a conſcience void of offence toward God and toward men.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:98146:11"/>If we believe <hi>the Reſurrection of the dead,</hi> and <hi>a future Judgment,</hi> we ought to be very care<g ref="char:EOLhyphen"/>full to diſcharge a good Conſcience <hi>now,</hi> in or<g ref="char:EOLhyphen"/>der to the rendring of a good <hi>Account</hi> hereafter; that <hi>we may be ſincere and without offence, with re<g ref="char:EOLhyphen"/>ſpect to the day of Christ,</hi> as the <hi>Apoſtle</hi> expreſſeth it. For when that great Day of Recompences ſhall come, we ſhall moſt aſſuredly find that no<g ref="char:EOLhyphen"/>thing will <hi>then</hi> raiſe our hearts, and make us to lift up our heads with joy, like the witneſs of a good conſcience: And therefore we ſhould make that our conſtant care and companion <hi>now,</hi> which will <hi>then</hi> be our great comfort and re<g ref="char:EOLhyphen"/>joycing, a good Conſcience and <hi>the teſtimony</hi> of it, <hi>that in all ſimplicity and godly ſincerity we have had our converſation in the world.</hi>
+            </p>
+            <p>And on the contrary, when we come to appear before the Great Judge of the World, nothing will fill our minds with ſo much ter<g ref="char:EOLhyphen"/>rour, and our faces with ſo much confuſion, as the clamorous accuſations of a guilty Conſci<g ref="char:EOLhyphen"/>ence; which will be <hi>more than a thouſand wit<g ref="char:EOLhyphen"/>neſſes</hi> againſt us, and will anticipate our con<g ref="char:EOLhyphen"/>demnation, and paſs almoſt as ſevere a Sentence upon us as the Judge himſelf can.</p>
+            <p>This is that which will make the ſinner to droop, and to hang down his head for ever:
+<pb n="20" facs="tcp:98146:12"/>And one of the principal ingredients of his miſery and torment will be the perpetual regret and remorſe of his own mind for his wilfull wickedneſs and folly; which will kindle a fire within him as hot as that without him, and as hard to be quench'd.</p>
+            <p>This conſideration ought to have a migh<g ref="char:EOLhyphen"/>ty operation upon us to make us very care<g ref="char:EOLhyphen"/>full to have Conſciences void of offence <hi>now,</hi> that they may be free from torment and an<g ref="char:EOLhyphen"/>guiſh <hi>hereafter:</hi> That when we ſhall come in<g ref="char:EOLhyphen"/>to the other World, we may not be eternal<g ref="char:EOLhyphen"/>ly diſpleas'd with our ſelves, and enrag'd at our own doings; but may carry with us thither Conſciences clear of all guilt, either by Innocen<g ref="char:EOLhyphen"/>cy, or by Repentance.</p>
+            <p>The firm belief of a future ſtate of eter<g ref="char:EOLhyphen"/>nal Happineſs or Miſery in another World is the great weight or ſpring that ſets a going thoſe two powerfull Principles of human acti<g ref="char:EOLhyphen"/>vity, the Hopes and the Fears of men; and is in its nature ſo fitted to raiſe theſe Paſſions to that degree, that did not experience ſhew us the contrary, one would think it morally im<g ref="char:EOLhyphen"/>poſſible for human Nature to reſiſt the mighty force of it.</p>
+            <p>
+               <pb n="21" facs="tcp:98146:12"/>All men are ſenſible, more or leſs, at one time or other of the true force of theſe Argu<g ref="char:EOLhyphen"/>ments; but the miſchief is, that in ſome per<g ref="char:EOLhyphen"/>ſons they work quite the wrong way, and in<g ref="char:EOLhyphen"/>ſtead of leading men to Repentance, they drive them to Infidelity: They cannot deny the force of theſe Arguments, if they were true; but that they may avoid the force of them, they will not believe them to be true: And ſo far they are in the right, that granting theſe things to be true, they cannot but acknowledge that they ought to live otherwiſe than they do: But here is their fatal miſcarriage, that being reſolv'd upon an e<g ref="char:EOLhyphen"/>vil courſe, ſince they cannot reconcile their pra<g ref="char:EOLhyphen"/>ctice with ſuch Principles as theſe, they will fit their Principles to their practice; and ſo they will believe nothing at all of the Rewards and Puniſhments of another World, leſt this ſhould diſturb them in their courſe: Vain men! as if Heaven and Hell muſt needs vaniſh and diſap<g ref="char:EOLhyphen"/>pear, becauſe ſome witty but wicked men have no mind to believe them.</p>
+            <p>Theſe men are Infidels in their own defence, and merely for the quiet of their own minds; that their Conſciences may not perpetually rate them, and fly in their faces. For a right belief and an evil Conſcience are but unſuitable com<g ref="char:EOLhyphen"/>panions;
+<pb n="22" facs="tcp:98146:13"/>they are quarrelſome neighbours, and muſt needs live very uneaſily by one another. He that believes the Principles of Religion, and yet is conſcious to himſelf that he hath liv'd con<g ref="char:EOLhyphen"/>trary to them, and ſtill continues to do ſo, how can he poſſibly have any peace and quiet-in his mind? unleſs like <hi>Jonah</hi> he can ſleep in a ſtorm, and his <hi>conſcience</hi> be, as it were, <hi>ſeared with a hot iron:</hi> For if his Conſcience be awake, and in any degree ſenſible, the evident danger of eter<g ref="char:EOLhyphen"/>nal ruine, continually hanging over him, muſt in reaſon either drive him to repentance or to deſpair: If ſo forcible and violent an Argument can make no impreſſion upon us, we are ſtupid and bewitch'd, we are loſt and undone, we are wretched and miſerable for ever.</p>
+            <p>But beſides the future Reward of a holy and conſcientious courſe, which is <hi>unſpeakable and full of</hi> glory; it hath alſo this preſent fruit, this <hi>ear<g ref="char:EOLhyphen"/>neſt,</hi> as I may ſay, and ready money in hand, the peace and ſatisfaction of our own minds, which is much more valuable <hi>than thouſands of gold and ſilver;</hi> the unſpeakable comfort whereof every man will then find, when he hath moſt need of it: For it will be matter of great joy to him, not only under the ſoreſt afflictions and cala<g ref="char:EOLhyphen"/>mities of Life, but even at the hour of Death;
+<pb n="23" facs="tcp:98146:13"/>when the miſeries of life oppreſs him, and the ſorrows of death compaſs him about, and the pangs of it are ready to take hold of him.</p>
+            <p>There is certainly no ſuch comfort under the evils and afflictions of this life, as a faithful wit<g ref="char:EOLhyphen"/>neſs in our own breaſts of our own innocency and integrity: When we are afflicted by God, or perſecuted and revil'd by men, it cannot but be a mighty conſolation to us to be conſcious to our ſelves of our own ſincerity. For though no man can acquit and juſtifie himſelf before God as to the perfect innocency of his life, in which ſenſe St. <hi>Paul</hi> ſays,<note place="margin">1 Cor. 4.4.</note> that <hi>though he knew nothing by himſelf, yet was he not thereby juſtified;</hi> I ſay, though no man can plead perfect innocency, yet as to the general courſe and tenour of an unblameable life, a good man may appeal to God, and even when he afflicts him, may look upon Him as a tender and compaſſionate Father, and not as an angry and revengeful Judge.</p>
+            <p>With this, holy and patient <hi>Job,</hi> under all thoſe terrible diſaſters and calamities which be<g ref="char:EOLhyphen"/>fell him, was able in ſome meaſure to comfort himſelf: After he had loſt all, and he had a great deal to loſe; when he was forſaken of all other comfort, even the charitable opinion of his beſt Friends concerning his ſincerity. In theſe ſad
+<pb n="24" facs="tcp:98146:14"/>and diſconſolate circumſtances, what was it that bore up his ſpirit? nothing but the conſcience of his own integrity. See with what reſolu<g ref="char:EOLhyphen"/>tion and conſtancy of mind he aſſerts and main<g ref="char:EOLhyphen"/>tains it:<note place="margin">Job 25.5, 6.</note> 
+               <hi>I will not,</hi> ſayes he, <hi>remove mine integrity from me: my righteouſneſs will I hold faſt, and will not let it go: mine heart ſhall not reproach me, ſo long <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as I live:</hi> You ſee, that when every thing elſe mas gone, his integrity ſtuck by him, and ſup<g ref="char:EOLhyphen"/>ported him to the laſt.</p>
+            <p>And as to perſecutions and ſufferings from men, our own innocency, and the goodneſs of our Cauſe, will be our beſt comfort under them: When we are not guilty to our ſelves that we have deſerv'd them from men, and are in<g ref="char:EOLhyphen"/>wardly aſſur'd that whatever we patiently ſuffer for God and a good conſcience, will all turn to our account another Day, and <hi>work for us a far more exceeding and eternal weight of Glo<g ref="char:EOLhyphen"/>ry.</hi>
+            </p>
+            <p>This was <hi>that</hi> which ſupported the firſt <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> that <hi>noble Army of Martyrs,</hi> under all thoſe bitter and cruel perſecutions, which had other<g ref="char:EOLhyphen"/>wiſe been beyond all human patience to have en<g ref="char:EOLhyphen"/>dur'd: This comforted them in all their tribu<g ref="char:EOLhyphen"/>lations; <hi>Our rejoycing,</hi> ſays <hi>St.</hi> Paul, <hi>is this, the teſtimony of our conſciences, that in ſimplicity and
+<pb n="25" facs="tcp:98146:14"/>godly ſincerity, we have had our converſation in the world.</hi>
+            </p>
+            <p>So likewiſe under that inferiour but equally malicious ſort of perſecution, of which this Age is ſo very profuſe and prodigal, I mean the cauſe<g ref="char:EOLhyphen"/>leſs calumnies and reproaches of men: If un<g ref="char:EOLhyphen"/>der theſe we can but approve our Conſciences to God, the uncharitable Cenſures of men are not ſo much to be regarded by us: ſome impreſſion they will make upon a tender mind, but we muſt not, if we can help it, let them ſink too deep into our ſpirits:<note place="margin">1 Joh. 3.21.</note> 
+               <hi>If our hearts condemn us not, we may have confidence towards God;</hi> and then ſurely much more towards <hi>men:</hi> If God and our own Conſciences do but acquit us, methinks it ſhould be no ſuch difficult mat<g ref="char:EOLhyphen"/>ter to bear the ſlanders and hard cenſures of men.</p>
+            <p>But above all other times, the comfort of a good Conſcience is moſt ſenſible, and moſt con<g ref="char:EOLhyphen"/>ſiderable, at the hour of Death: For as nothing dejects a mans ſpirit more, and ſends him down with ſo much ſorrow to the grave, as the guilt of an evil Conſcience; what terrour and an<g ref="char:EOLhyphen"/>guiſh, what rage and deſpair do ſeize upon a Sinner at that time, when he reflects upon what he hath done, and conſiders what he is
+<pb n="26" facs="tcp:98146:15"/>like to ſuffer? So on the other hand, there is nothing that revives and raiſes the fainting ſpi<g ref="char:EOLhyphen"/>rits of a dying man, like the Conſcience of a holy and uſeful life, which hath brought glory to God,<note place="margin">Prov. 14.32.</note> and good to men. <hi>The wicked,</hi> ſays <hi>Solo<g ref="char:EOLhyphen"/>mon, is driven away in his wickedneſs,</hi> that is, he is carried out of the World, as it were, in a ſtorm and tempeſt: <hi>But the righteous hath hope in his death;</hi> he uſually dies calmly and comfortably: <hi>Mark the perfect man,</hi>
+               <note place="margin">Pſal. 37.37.</note> 
+               <hi>ſays</hi> David, <hi>and behold the upright; for the end of that man is peace.</hi>
+            </p>
+            <p>If a man be conſcious to himſelf that he hath ſincerely endeavour'd to keep the command<g ref="char:EOLhyphen"/>ments of God, and to do the things which pleaſe Him; if he hath <hi>lived</hi> inoffenſively and, as St. <hi>Paul</hi>
+               <note place="margin">Acts 23.1.</note> ſays of himſelf, <hi>in all good conſcience before God,</hi> and men; what an unſpeakable conſo<g ref="char:EOLhyphen"/>lation muſt it be to him, in that dark and gloomy time, and when he is <hi>walking through the valley of the ſhadow of death,</hi> then <hi>to fear no evil?</hi> and to be able with our <hi>Bleſſed Saviour</hi> to ſay, though in a much inferiour meaſure and degree,<note place="margin">John 17.4.</note> 
+               <hi>Father, I have glorified thee on the earth, I have finiſhed the work which thou haſt given me to do:</hi> And to be able to look Death in the face with the like courage and conſtancy of mind as St. <hi>Paul</hi> did when he ſaw it approaching to<g ref="char:EOLhyphen"/>wards
+<pb n="27" facs="tcp:98146:15"/>wards him: <hi>I am now,</hi> ſays he,<note place="margin">2 Tim. 4.6, 7, 8</note> 
+               <hi>ready to be of fer'd, and the time of my departure is at hand; I have fought a good fight, I have finiſh'd my race, I have kept the faith; henceforth there is laid up for me a Crown of righteouſneſs, which the Lord the righteous Judge ſhall give me at that day.</hi> A com<g ref="char:EOLhyphen"/>fortable Death, that is free from the ſtings and upbraidings, the terrors and tortures, the con<g ref="char:EOLhyphen"/>fuſion and amazement of a guilty Conſcience, is a happineſs ſo deſireable, as to be well worth the beſt care and endeavour of a mans whole life.</p>
+            <p>Let us then have a conſcientious regard to the whole compaſs of our Duty, and, with St. <hi>Paul, Let us exerciſe to have alwayes a Conſcience void of offence towards God, and towards men:</hi> And let us never do any thing whereby we ſhall offer vio<g ref="char:EOLhyphen"/>lence to the light of our minds. God hath gi<g ref="char:EOLhyphen"/>ven us this Principle to be our conſtant guide, and companion; and whoever, after due care to informe himſelf aright, does ſincerely fol<g ref="char:EOLhyphen"/>low the dictate and direction of this Guide, ſhall never fatally miſcarry: But whoever goes a<g ref="char:EOLhyphen"/>gainſt the clear dictate and conviction of his Conſcience, in ſo doing he undermines the foundation of his own comfort and peace, and ſins againſt God and his own Soul.</p>
+            <p>
+               <pb n="28" facs="tcp:98146:16"/>And to the end we may keep our Conſcien<g ref="char:EOLhyphen"/>ces clear of guilt, we ſhould frequently exa<g ref="char:EOLhyphen"/>mine our ſelves, and look back upon the actions of our lives, and call our ſelves to a ſtrict ac<g ref="char:EOLhyphen"/>count for them; that wherein-ſoever we have fail'd of innocency, we may make it up by re<g ref="char:EOLhyphen"/>pentance; and may get our Conſciences clear'd of guilt by pardon and forgiveneſs: And if we do not do this, we cannot with confidence re<g ref="char:EOLhyphen"/>ly upon the teſtimony of our Conſciences; be<g ref="char:EOLhyphen"/>cauſe many great Sins may ſlip out of our me<g ref="char:EOLhyphen"/>mories without a particular repentance for them, which yet do require and ſtand in need of a par<g ref="char:EOLhyphen"/>ticular repentance.</p>
+            <p>Eſpecially, we ſhould ſearch our Conſciences more narrowly at theſe more ſolemn Times of repentance, and when we are preparing our ſelves to receive the Holy Sacrament: And if at theſe Times our hearts do accuſe and condemn us for any thing, we ſhould not only heartily lament and bewail it before God, but ſincerely reſolve by Gods grace to reform in that particular, and from that time to break off that Sin which we have then repented of, and have ask'd forgiveneſs of God for<g ref="char:punc">▪</g> For if after we have repented of it, we return to it again, we wound our
+<pb n="29" facs="tcp:98146:16"/>Conſcience afreſh, and involve them in a new guilt.</p>
+            <p>In the laſt place, We ſhould reverence our Conſciences, and ſtand in awe of them, and have a great regard to their teſtimony and verdict: For Conſcience is a domeſtick Judge, and a kind of familiar God: And therefore, next to the Supreme Majeſty of Heaven and Earth, every man ſhould be afraid to offend his own Reaſon and Conſcience, which whenever we knowing<g ref="char:EOLhyphen"/>ly do amiſs, will beat us with many ſtripes, and handle us more ſeverely than the greateſt Enemy we have in the World: So that next to the dreadful ſentence of the great Day, every man hath reaſon to dread the ſentence of his own Conſcience, <hi>God indeed is greater than our hearts, and knows all things;</hi> but under Him we have the greateſt reaſon to fear the judgment of our own Conſciences: For nothing but that can give us Comfort, and nothing can create ſo much trouble and diſquiet to us.</p>
+            <p>And though the judgment of our Conſci<g ref="char:EOLhyphen"/>ences be not alwayes the judgment of God, yet we have great reaſon to have great regard to it;
+<pb n="30" facs="tcp:98146:17"/>and that upon ſeveral accounts, which I ſhall but briefly mention, and ſo conclude.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the judgment of out Conſci<g ref="char:EOLhyphen"/>ence is free from any compulſion. No body can force it from us, whether we will or no; and make us to paſs ſentence againſt our ſelves, whether we ſee reaſon for it or not.</p>
+            <p>
+               <hi>Secondly,</hi> The ſentence of our own Conſci<g ref="char:EOLhyphen"/>ences is very likely to be impartial, at leſt not too hard on the ſevere ſide; becauſe men naturally love themſelves, and are too apt to be favou<g ref="char:EOLhyphen"/>rable in their own caſe: All the World cannot bribe a man againſt himſelf: There is no man whoſe mind is not either diſtemper'd by melan<g ref="char:EOLhyphen"/>choly, or deluded by falſe Principles, that is apt to be credulous againſt himſelf, and his own intereſt and peace.</p>
+            <p>
+               <hi>Thirdly,</hi> The judgment which our Conſcience paſſeth upon our own actions, is upon the moſt intimate and certain knowledge of them, and of their true motives and ends. We may eaſily be deceiv'd in our judgment of the actions of other men, and may think them to be much better or worſe than in truth they are: Becauſe
+<pb n="31" facs="tcp:98146:17"/>we cannot certainly tell with what mind they were done, and what circumſtances there may be to excuſe or aggravate them; how ſtrong the temptation was, or how weak the judg<g ref="char:EOLhyphen"/>ment of him that was ſeduc'd by it into errour and folly.</p>
+            <p>But we are conſcious to all the ſecret ſprings, and motives, and circumſtances of our own actions: We can deſcend into our own hearts, and dive to the bottom of them, and ſearch in<g ref="char:EOLhyphen"/>to the moſt retired corners of our intentions and ends; which none, beſides our ſelves, but only God can do; for excepting <hi>Him</hi> only, <hi>none knows the things of a man but the Spirit of a man which is in him.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> The Sentence of our Conſcience is peremptory and inexorable, and there is no way to avoid it. Thou mayeſt poſſibly flie from the wrath of other men to the uttermoſt parts of the Earth, but thou canſt not ſtir one ſtep from thy ſelf: In vain ſhalt thou call up<g ref="char:EOLhyphen"/>on the mountains and rocks to fall on thee and hide thee from the ſight of thine own Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>
+               <pb n="32" facs="tcp:98146:18"/>Wretched and miſerable man! when thou haſt offended and wounded thy Conſcience: For whether canſt thou go, to eſcape the eye of this Witneſs, the terrour of this Judge, the torment of this Executioner? A man may as ſoon get rid of himſelf, and quit his own be<g ref="char:EOLhyphen"/>ing, as fly from the ſharp accuſations and ſting<g ref="char:EOLhyphen"/>ing guilt of his own Conſcience; which will perpetually haunt him, till it be done away by repentance and forgiveneſs.</p>
+            <p>We account it a fearful thing to be haunted by evil ſpirits, and yet the ſpirit of a man which is in him, throughly affrighted with its own guilt, may be a more ghaſtly and amazing Spectacle than all the Devils in Hell: There is no ſuch frightful Apparition in the World, as a mans own guilty and terrified Conſcience ſtaring him in the face: <hi>A ſpirit</hi> that is thus <hi>wounded, who can bear?</hi>
+            </p>
+            <p>To conclude; Let theſe confederations pre<g ref="char:EOLhyphen"/>vail with us alwayes to live, not with regard to the opinion of others, which may be grounded upon miſtake, or may not indeed be their opi<g ref="char:EOLhyphen"/>nion, but their flattery; but with regard to the judgment of our own Conſcience, which though it may ſometimes be miſtaken, can never be
+<pb n="33" facs="tcp:98146:18"/>brib'd and corrupted: We may be hypocrites to others and baſe flatterers, but our Conſcien<g ref="char:EOLhyphen"/>ces whenever they are throughly awaken'd are alwayes ſincere, and deal truly with us, and ſpeak to us as they think.</p>
+            <p>Therefore whatever we ſay or do, let it be ſincere: For though hypocriſie may for a while preſerve our eſteem and reputation with others, yet it can ſignifie nothing to the peace of our own minds: And then what will it avail us to conceal any thing from other men, when we can hide nothing that we ſay or do from our own Conſciences?</p>
+            <p>The ſumme of all is this: If we would keep a Conſcience void of offence, let us alwayes be calme and conſiderate, and have the patience to examine things throughly and impartially: Let us be humble and willing to learn, and never too proud and ſtiff to be better inform'd: Let us do what we can to free our ſelves from pre<g ref="char:EOLhyphen"/>judice and paſſion, from ſelf-conceit and ſelf-in<g ref="char:EOLhyphen"/>tereſt, which are often too ſtrong a byaſs upon the judgments of the beſt men, as we may ſee every day in very ſad and melancholy inſtan<g ref="char:EOLhyphen"/>ces: And having taken all due care to inform our Conſciences aright, let us follow the judg<g ref="char:EOLhyphen"/>ment of our minds in what we do; and
+<pb n="34" facs="tcp:98146:19" rendition="simple:additions"/>then we have done what we can to pleaſe God.</p>
+            <p>And if we would alwayes take this care to keep a good Conſcience, we ſhould alwayes be eaſie, and good company to our ſelves: But if we offend our Conſciences, by doing contrary to the clear dictate and conviction of them, we make the unhappyeſt breach in the World; we ſtir up a quarrel in our own breaſts, and arm our own minds againſt our ſelves; we create an enemy to our ſelves in our own boſoms, and fall but with the beſt and moſt inſeparable Companion of our lives.</p>
+            <p>And on the contrary, <hi>a good Conſcience</hi> will be <hi>a continual Feaſt,</hi> and will give us that comfort and courage in an evil day which nothing elſe can: And then whatever happen to us, we may <hi>commit our ſouls to God in well-doing, as into the hands of a faithful Creatour,</hi> To whom with our <hi>Bleſſed Saviour</hi> and <hi>Redeemer,</hi> and the <hi>Holy Ghoſt</hi> the <hi>Comforter,</hi> be all honour and glory, now and ever, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS<g ref="char:punc">▪</g>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
